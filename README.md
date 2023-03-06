@@ -6,5 +6,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldjow&layout=compact&langs_count=16&theme=tokyonight"/>
  </div>
  
- ✔
+ ![Snake animation](https://github.com/heldjow/heldjow/blob/output/github-contribution-grid-snake.svg)
 
