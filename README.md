@@ -7,5 +7,3 @@
  </div>
  
  ![Snake animation](https://github.com/heldjow/heldjow/blob/output/github-contribution-grid-snake.svg)
-
-github-contribution-grid-snake.svg
