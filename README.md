@@ -5,6 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldjow&layout=compact&theme=tokyonight"/>
  </div>
  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=heldjow&bg_color=0f0f0f&color=0a308a&line=5359ac&point=0a308a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
  ### Sobre mim
 <div style="display: inline_block"  >
   <img align="right" width="220" height="200" style="border-radius:30px;" src="https://media.tenor.com/Ojl7Cdv6yB0AAAAC/rainbow-spongebob.giff" />
