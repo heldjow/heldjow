@@ -8,11 +8,13 @@
  
  ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="200" height="200" style="border-radius:30px;" src="https://media.tenor.com/OFuFlA-V9J0AAAAC/spongebob-hello.gif" />
-<p> - 👨‍💻 No momento aprendo tecnologias por conta própria, estimulando conhecimento autodidata. </p>
-<p> - 👨‍🎓 Estudante de Sistemas da Informação - UFRPE </p>
-<p> - 🎯 Interesse: Tecnologias de programação front end. </p>
-<p> - 🦊 Sou um curioso com muitos erros e poucos acertos, mas desistir nunca foi uma opção! </p>
+  <img align="right" width="220" height="200" style="border-radius:30px;" src="https://media.tenor.com/Ojl7Cdv6yB0AAAAC/rainbow-spongebob.giff" />
+  <p> - 👨‍💻 No momento estudo tecnologias por conta própria, estimulando conhecimento autodidata. </p>
+  <p> - 👨‍🎓 Estudante de Sistemas da Informação - UFRPE </p>
+  <p> - 🎯 Interesse: Linguagens e tecnologias de programação front end. </p>
+  <p> - 🦊 Sou um curioso com muitos erros e poucos acertos, mas desistir nunca foi uma opção! </p>
+  <p> - 🖖🏼 Amante do futebol, cinema e culinária. </p>
+</div>
 
   ## Minhas habilidades 🤓
  <div style="display: inline_block" align="center"><br>
