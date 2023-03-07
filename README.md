@@ -12,7 +12,7 @@
   <p> - 👨‍🎓 Estudante de Sistemas da Informação - UFRPE </p>
   <p> - 🎯 Interesse: Linguagens e tecnologias de programação front end. </p>
   <p> - 🦊 Sou um curioso com muitos erros e poucos acertos, mas desistir nunca foi uma opção! </p>
-  <p> - 🖖🏼 Amante do futebol, cinema e culinária. </p>
+  <p> - 🖖🏼 Amante 3c: competição, cinema e culinária. </p>
 </div>
 
   ## Minhas habilidades 🤓
