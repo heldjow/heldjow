@@ -1,6 +1,5 @@
 # Olá! Seja bem vindo! Sou Hélder Miranda! ⏳
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=heldjow&bg_color=0f0f0f&color=0a308a&line=5359ac&point=0a308a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  ### Sobre mim
 <div style="display: inline_block"  >
@@ -9,7 +8,6 @@
   <p> - 👨‍🎓 Estudante de Sistemas da Informação - UFRPE </p>
   <p> - 🎯 Interesse: Linguagens e tecnologias de programação front end. </p>
   <p> - 🦊 Sou um curioso com muitos erros e poucos acertos, mas desistir nunca foi uma opção! </p>
-  <p> - 🖖🏼 Amante 3c: competição, cinema e culinária. </p>
 </div>
 
   ## Minhas habilidades 🤓
